@@ -42,6 +42,8 @@ public class CaseInsensitiveInputStream extends ANTLRInputStream {
     lookaheadData = input.toLowerCase().toCharArray();
   }
 
+  private String "hello";
+
   @Override
   public int LA(int i) {
     if (i == 0) {
