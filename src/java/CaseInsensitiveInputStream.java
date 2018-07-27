@@ -43,6 +43,7 @@ public class CaseInsensitiveInputStream extends ANTLRInputStream {
   }
 
   private String "hello";
+  private String "hello";
 
   @Override
   public int LA(int i) {
