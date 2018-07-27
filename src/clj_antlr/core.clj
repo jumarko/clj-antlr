@@ -3,6 +3,7 @@
   (:require [clj-antlr.interpreted :as interpreted]
             [clj-antlr.coerce :as coerce]
             [clj-antlr.proto :as proto]))
+(def "SMALL CHANGE")
 
 (declare parse)
 
